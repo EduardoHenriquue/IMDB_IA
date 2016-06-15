@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/kotlin-reflect.jar"/>
+	<classpathentry kind="lib" path="lib/kotlin-runtime-sources.jar"/>
+	<classpathentry kind="lib" path="lib/kotlin-runtime.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eduardo/Documents/unbbayes-4.21.18/unbbayes-4.21.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eduardo/Documents/dist/GraphInterKeel.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="out/production/IMDB_IA"/>
+</classpath>
